@@ -1,5 +1,6 @@
 # Auth-to-API
-
+                                Registrarion
+![image](https://github.com/user-attachments/assets/e9c544b6-534f-47a1-8274-ac0635aa2ddd)
 
 
                                  Login
